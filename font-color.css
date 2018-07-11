@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: brown;
+}
+
+#first {
+    color: aqua;
+}
+
+#second {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+ul {
+    color: yellow;
+}
